@@ -1,6 +1,6 @@
 public class StudentController {
-    // Controller class in MVC pattern that connects the model and view
-    // and provides methods to set and get student information
+    // Controller class in MVC pattern that connects the model and view and provides methods to set and get student information
+    // Controller classes represent the application logic
     private final StudentModel model;
     private final StudentView view;
 
